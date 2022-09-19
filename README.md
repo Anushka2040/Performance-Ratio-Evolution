@@ -7,7 +7,7 @@ The dataset consists of three columns:
 # About the output
 -	The red line on the graph represents the 30-d moving average of the PR (Performance Evolution) whereas the scatter points depict the GHI. 
 
--	The dark green line represents the budget line. The value begins from 73.9 and should reduce by 0.8% every year (Do not hardcode the values). As you can see the, the values are:
+-	The dark green line represents the budget line. The value begins from 73.9 and should reduce by 0.8% every year. The values are:
 
 o	73.9 for the first year (July 2019 to June 2020)
 o	73.3 for the second year (July 2020 to June 2021)
