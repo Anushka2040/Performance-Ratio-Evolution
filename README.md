@@ -9,7 +9,7 @@ The dataset consists of three columns:
 
 -	The dark green line represents the budget line. The value begins from 73.9 and should reduce by 0.8% every year. The values are:
 
-  -> 73.9 for the first year (July 2019 to June 2020)
+  == 73.9 for the first year (July 2019 to June 2020)
   -> 73.3 for the second year (July 2020 to June 2021)
   -> 72.7 for the third year (July 2021 to present)
 
