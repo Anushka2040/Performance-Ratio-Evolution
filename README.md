@@ -8,17 +8,17 @@ The dataset consists of three columns:
 -	The red line on the graph represents the 30-d moving average of the PR (Performance Evolution) whereas the scatter points depict the GHI. 
 
 -	The dark green line represents the budget line. The value begins from 73.9 and should reduce by 0.8% every year. The values are:
-</br>
--> 73.9 for the first year (July 2019 to June 2020)
--> 73.3 for the second year (July 2020 to June 2021)
--> 72.7 for the third year (July 2021 to present)
+
+  -> 73.9 for the first year (July 2019 to June 2020)
+  -> 73.3 for the second year (July 2020 to June 2021)
+  -> 72.7 for the third year (July 2021 to present)
 
 -	The points for the scatter plot are colour coded (as per the legend above). That is: if the GHI [Daily Irradiation] is:
 
-o	Less than 2: Navy blue
-o	2-4: Light blue
-o	4-6: Orange
-o	>6: Brown
+ -> Less than 2: Navy blue
+ -> 2-4: Light blue
+ -> 4-6: Orange
+ -> >6: Brown
 
 -	The points above Target Budget PR represent the number of PR points above the Budget PR for that particular year.
 
